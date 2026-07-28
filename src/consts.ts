@@ -1,7 +1,7 @@
 import type { Site, Metadata, Socials } from "@types";
 
 export const SITE: Site = {
-  NAME: "",
+  NAME: "CTRL",
   EMAIL: "w3b.ctrl@gmail.com",
   NUM_POSTS_ON_HOMEPAGE: 3,
   NUM_WORKS_ON_HOMEPAGE: 2,
@@ -9,7 +9,7 @@ export const SITE: Site = {
 };
 
 export const HOME: Metadata = {
-  TITLE: "CTRL",
+  TITLE: "",
   DESCRIPTION: "Tech, Innovation, Solutions.",
 };
 
